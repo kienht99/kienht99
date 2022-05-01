@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kien (Bradley) Hoang</h1>
 <h3 align="center">An iOS Developer from VietNam</h3>
 
+<h3 align="left">My information:</h3>
+
 - 🌱 I’m currently learning **SwiftUI**
 
 - 💬 Ask me about **iOS development**
