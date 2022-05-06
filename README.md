@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kien (Bradley) Hoang</h1>
 <h3 align="center">An iOS Developer from VietNam</h3>
+<p align="left">With 2 years of experience in iOS development, which includes understanding requirement specifications, working on software design, coding, testing and maintenance. I have good knowledge of Architect Patterns and Design Patterns.</p>
 
 <h3 align="left">My information:</h3>
 
